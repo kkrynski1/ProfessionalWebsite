@@ -81,15 +81,15 @@ div#box5{
 	position: relative;
 	margin: -151px 0px 0px 355px;
 }
-li#endlist{
+.endlist{
 	margin: 0px 0px 10px 0px;
 	font-size: 15px;
 	color: black;
 }
-li#smallerfont{
+.smallerfont{
 	font-size: 15px;
 	color: black;
 }
-li#keyitem{
+.keyitem{
 	color: blue;
 }
