@@ -1,0 +1,13 @@
+Kasper Krynski
+COM421 - Spring 2020
+
+When you first open the website, the homepage comes up with some basic information about me. At the top there are two buttons, one that says "Home" and the other that says "Resume". 
+The "Home" button takes you to the homepage which is where you currently are, and the "Resume" button takes you to the page with my resume. Further down on the homepage there is a
+hyperlink which also takes you to my resume page.
+On the resume page you'll see my resume made on a webpage. At the top of the page there are three buttons now instead of two. One is "Home" again, and another is "Resume" again which 
+both take you to the same places as the buttons on the previous page did. The last button labelled "Download" takes you to my resume as a .pdf file and let's you download it from there.
+I didn't get to add a projects page yet as I only have access to a few of my projects (because they were worked on in groups so I'm not the file owner) so I didn't want to have a page
+that only has a few working links to those projects. The main homepage is also a little more barren than I'd like but I wasn't really sure what else to add other than a general
+description. In the future I'd like to add maybe a professional picture to the home page along with a little more information. The projects page is also a future goal, of course.
+The last thing I'd like to do in the future is make the navigation completely different so as to have either a top or side navigation bar maybe with some pulldown menus, but I feel 
+like I'd need more content for the website first.
