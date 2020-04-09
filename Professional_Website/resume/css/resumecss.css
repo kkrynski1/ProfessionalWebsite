@@ -1,0 +1,95 @@
+h1{
+    text-align: left;
+    font-family: Tahoma, sans-serif;
+    font-size: 60px;
+    color: Blue;
+    width: 500px;
+	position: relative;
+	margin: 20px 0px -18px 0px;
+}
+
+p{
+    margin: 20px 0px 35px 0px;
+}
+
+h2{
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+    line-height: 0px;
+    display: block;
+    margin-block-start: 10px;
+    margin-block-end: 20px;
+}
+
+ul{
+	list-style-type: none; 
+}
+
+li{
+	font-size: 17px;
+    font-family: Bookman, serif;
+	
+}
+
+hr{
+	
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    margin: 0px 10px 0px 0px;
+}
+
+body {
+    margin: 30px 0px 0px 20px;
+}
+
+.button {
+    font: bold 15px Arial;
+    background-color: #3bc8a9;
+	text-decoration: none;
+    color: Black;
+    padding: 10px 10px 10px 10px;
+    border-top: 2px solid #CCCCCC;
+	border-bottom: 2px solid #333333;
+    border-left: 2px solid #CCCCCC;
+	border-right: 2px solid #333333;
+}
+
+div#box1{
+	position: relative;
+	margin: 0px 0px 25px 0px
+}
+
+div#box2{
+	position: relative;
+	margin: 0px 0px 25px 0px
+}
+
+div#box3{
+	position: relative;
+	margin: 0px 0px 25px 0px
+}
+
+div#box4{
+	position: relative;
+}
+div#box5{
+	position: relative;
+	margin: -151px 0px 0px 355px;
+}
+li#endlist{
+	margin: 0px 0px 10px 0px;
+	font-size: 15px;
+	color: black;
+}
+li#smallerfont{
+	font-size: 15px;
+	color: black;
+}
+li#keyitem{
+	color: blue;
+}
